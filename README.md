@@ -18,4 +18,4 @@ Docker · JUnit 5 · Cucumber · Hexagonal Architecture · DDD · NodeJS · Reac
 - AZ-900 Microsoft Azure Fundamentals (in progress)
 - Open to Junior/Mid Backend and Full Stack Engineer roles 
 
-📫 lennoxobu@gmail.com · [LinkedIn](your-linkedin-url)
+📫 lennoxobu@gmail.com · [LinkedIn](https://www.linkedin.com/in/chiedozie-obu-071311192/)
