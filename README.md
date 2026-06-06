@@ -12,10 +12,10 @@ event-driven microservices using Spring Boot, Kafka, and PostgreSQL.
 
 ### Stack
 Java 17 · Spring Boot 3 · PostgreSQL · Kafka · RabbitMQ · 
-Docker · JUnit 5 · Cucumber · Hexagonal Architecture · DDD
+Docker · JUnit 5 · Cucumber · Hexagonal Architecture · DDD · NodeJS · React
 
 ### Currently
 - AZ-900 Microsoft Azure Fundamentals (in progress)
-- Open to Junior/Mid Backend and Full Stack Engineer roles in London
+- Open to Junior/Mid Backend and Full Stack Engineer roles 
 
 📫 lennoxobu@gmail.com · [LinkedIn](your-linkedin-url)
